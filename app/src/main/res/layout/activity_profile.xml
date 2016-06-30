@@ -46,9 +46,6 @@
             android:layout_alignParentBottom="true"
             android:layout_alignRight="@+id/imageView"
             android:layout_alignEnd="@+id/imageView" />
-
-
-
     </RelativeLayout>
 
 
@@ -75,7 +72,6 @@
             android:layout_height="wrap_content"
             android:contentDescription="image"
             android:clickable="true"
-
             android:layout_margin="8dp"
             android:scaleType="fitXY"
             android:background="@drawable/edit_states"
@@ -83,9 +79,6 @@
             android:layout_alignTop="@+id/editText"
             android:layout_alignBottom="@+id/editText"
             android:layout_alignRight="@+id/editText" />
-
-
-
     </RelativeLayout>
 
 
@@ -113,7 +106,6 @@
             android:layout_height="wrap_content"
             android:contentDescription="image"
             android:clickable="true"
-
             android:layout_margin="8dp"
             android:scaleType="fitXY"
             android:background="@drawable/edit_states"
@@ -121,9 +113,6 @@
             android:layout_alignTop="@+id/editText2"
             android:layout_alignBottom="@+id/editText2"
             android:layout_alignRight="@+id/editText2"/>
-
-
-
     </RelativeLayout>
 
 
@@ -151,7 +140,6 @@
             android:layout_height="wrap_content"
             android:contentDescription="image"
             android:clickable="true"
-
             android:layout_margin="8dp"
             android:scaleType="fitXY"
             android:background="@drawable/edit_states"
@@ -159,9 +147,6 @@
             android:layout_alignTop="@+id/editText3"
             android:layout_alignBottom="@+id/editText3"
             android:layout_alignRight="@+id/editText3"/>
-
-
-
     </RelativeLayout>
 </LinearLayout>
     </ScrollView>
